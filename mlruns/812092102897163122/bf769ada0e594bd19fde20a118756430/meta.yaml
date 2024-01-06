@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ok/Desktop/ProjetdeSysnthese/CKDProject/mlruns/812092102897163122/bf769ada0e594bd19fde20a118756430/artifacts
+end_time: 1704504988309
+entry_point_name: ''
+experiment_id: '812092102897163122'
+lifecycle_stage: active
+run_id: bf769ada0e594bd19fde20a118756430
+run_name: selective-hog-549
+run_uuid: bf769ada0e594bd19fde20a118756430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704504988249
+status: 4
+tags: []
+user_id: ok

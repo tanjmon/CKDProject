@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1704503925300
+current_stage: None
+description: null
+last_updated_timestamp: 1704503925300
+name: tracking-quickstart
+run_id: a59807174e04421684871df0f74321f9
+run_link: null
+source: file:///c:/Users/ok/Desktop/ProjetdeSysnthese/CKDProject/mlruns/812092102897163122/a59807174e04421684871df0f74321f9/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/ok/Desktop/ProjetdeSysnthese/CKDProject/mlruns/812092102897163122/a59807174e04421684871df0f74321f9/artifacts/iris_model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ok/Desktop/ProjetdeSysnthese/CKDProject/mlruns/812092102897163122/462f3df444ad435ab46a883cb012cd9f/artifacts
+end_time: 1704505310513
+entry_point_name: ''
+experiment_id: '812092102897163122'
+lifecycle_stage: active
+run_id: 462f3df444ad435ab46a883cb012cd9f
+run_name: inquisitive-ant-58
+run_uuid: 462f3df444ad435ab46a883cb012cd9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704505310448
+status: 4
+tags: []
+user_id: ok

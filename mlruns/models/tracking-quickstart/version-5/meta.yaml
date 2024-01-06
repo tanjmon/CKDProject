@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1704506258462
+current_stage: None
+description: null
+last_updated_timestamp: 1704506258462
+name: tracking-quickstart
+run_id: e49453d42d5f47a88cc80331858da3ff
+run_link: null
+source: file:///c:/Users/ok/Desktop/ProjetdeSysnthese/CKDProject/mlruns/812092102897163122/e49453d42d5f47a88cc80331858da3ff/artifacts/CKD_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/ok/Desktop/ProjetdeSysnthese/CKDProject/mlruns/812092102897163122/e49453d42d5f47a88cc80331858da3ff/artifacts/CKD_model
+user_id: null
+version: 5

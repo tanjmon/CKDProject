@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ok/Desktop/ProjetdeSysnthese/CKDProject/mlruns/812092102897163122/7cc15bd6b28f441daafa72596ecb05fc/artifacts
+end_time: 1704505486421
+entry_point_name: ''
+experiment_id: '812092102897163122'
+lifecycle_stage: active
+run_id: 7cc15bd6b28f441daafa72596ecb05fc
+run_name: regressionLog
+run_uuid: 7cc15bd6b28f441daafa72596ecb05fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704505486355
+status: 3
+tags: []
+user_id: ok

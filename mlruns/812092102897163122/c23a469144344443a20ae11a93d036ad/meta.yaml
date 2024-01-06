@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ok/Desktop/ProjetdeSysnthese/CKDProject/mlruns/812092102897163122/c23a469144344443a20ae11a93d036ad/artifacts
+end_time: 1704505385345
+entry_point_name: ''
+experiment_id: '812092102897163122'
+lifecycle_stage: active
+run_id: c23a469144344443a20ae11a93d036ad
+run_name: receptive-loon-173
+run_uuid: c23a469144344443a20ae11a93d036ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704505381004
+status: 3
+tags: []
+user_id: ok
